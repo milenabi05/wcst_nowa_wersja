@@ -1,0 +1,12 @@
+star2blue;2;0
+triangle4green;4;0
+cross3green;3;0
+star4red;4;0
+triangle2blue;2;0
+circle2blue;2;0
+circle3blue;1;0
+cross1yellow;3;0
+triangle4yellow;2;0
+star1green;4;0
+circle2red;1;0
+cross2red;3;0
